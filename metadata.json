@@ -1,0 +1,6 @@
+{
+  "name": "Mysuru Heritage Rewards",
+  "description": "An interactive, location-based heritage rewards experience for Mysuru's historic landmarks. Walk within geofence limits, verify your proximity using GPS to instantly unlock vouchers, and spin the premium lucky cashback wheel!",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
